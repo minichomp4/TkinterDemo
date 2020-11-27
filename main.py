@@ -1,6 +1,10 @@
 import tkinter
 
-top = tkinter.Tk()
-# Code to add widgets will go here...
-top.mainloop()
+startUp = tkinter.Tk()
+
+startUp.geometry("1280x960")
+startUp.title("Startup Page")
+
+startUp.mainloop()
+
 
